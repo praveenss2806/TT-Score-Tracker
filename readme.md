@@ -1,1 +1,1 @@
-# TT-Score-Tracker App
+# TT-Score-Tracker App.
